@@ -1,0 +1,1 @@
+# php-integrated-school-finder
